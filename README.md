@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./docs/wordmark-dark.svg">
-  <img src="./docs/wordmark-light.svg" alt="emailens / action" width="444">
+  <img src="./docs/wordmark-light.svg" alt="emailens" width="320">
 </picture>
 
 **Email rendering checks for your CI**
