@@ -13,7 +13,7 @@
 
 </div>
 
-Fail your PR if emails have critical rendering issues. Checks HTML, React Email (JSX), MJML, and Maizzle email templates against 15 email clients and reports compatibility scores with framework-aware fix suggestions.
+Fail your PR if emails have critical rendering issues. Checks HTML, React Email (JSX), MJML, and Maizzle email templates against 21 email clients and reports compatibility scores with framework-aware fix suggestions.
 
 > **Also available as an [MCP server](https://github.com/emailens/mcp)** — analyze and fix emails directly from Claude, Cursor, or any MCP-compatible AI assistant.
 
@@ -73,7 +73,7 @@ jobs:
 
 ## Available Client IDs
 
-`gmail-web`, `gmail-android`, `gmail-ios`, `outlook-web`, `outlook-windows`, `outlook-windows-legacy`, `outlook-ios`, `outlook-android`, `apple-mail-macos`, `apple-mail-ios`, `yahoo-mail`, `samsung-mail`, `thunderbird`, `hey-mail`, `superhuman`
+`gmail-web`, `gmail-android`, `gmail-ios`, `outlook-web`, `outlook-windows`, `outlook-windows-legacy`, `outlook-ios`, `outlook-android`, `outlook-macos`, `apple-mail-macos`, `apple-mail-ios`, `yahoo-mail`, `yahoo-mail-android`, `yahoo-mail-ios`, `samsung-mail`, `thunderbird`, `hey-mail`, `protonmail`, `aol`, `fastmail`, `superhuman`
 
 ## Related
 
