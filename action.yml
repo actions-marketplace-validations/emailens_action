@@ -1,5 +1,5 @@
 name: "Emailens Email Preview Check"
-description: "Check HTML email templates for rendering issues across 15 email clients. Fails the build if compatibility scores drop below threshold."
+description: "Check email templates against 15 email clients and fail the build when a compatibility score drops below your threshold."
 author: "Emailens"
 
 branding:
