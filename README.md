@@ -1,6 +1,17 @@
-# Emailens GitHub Action
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./docs/wordmark-dark.svg">
+  <img src="./docs/wordmark-light.svg" alt="emailens / action" width="444">
+</picture>
+
+**Email rendering checks for your CI**
+
+[![license](https://img.shields.io/github/license/emailens/action)](./LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-Server-blue)](https://github.com/emailens/mcp)
+[![GitHub stars](https://img.shields.io/github/stars/emailens/action?style=flat)](https://github.com/emailens/action/stargazers)
+
+</div>
 
 Fail your PR if emails have critical rendering issues. Checks HTML, React Email (JSX), MJML, and Maizzle email templates against 15 email clients and reports compatibility scores with framework-aware fix suggestions.
 
